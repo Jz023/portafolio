@@ -328,18 +328,14 @@ img {
 }
 
 .skills__js {
-  width: 65%;
+  width: 60%;
 }
 
-.skills__py {
-  width: 85%;
-}
 
-----------------------
 .skills__ux {
-  width: 85%;
+  width: 50%;
 }
------------------------
+
 
 .skills__img {
   border-radius: .5rem;
